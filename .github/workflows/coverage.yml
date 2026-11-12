@@ -1,4 +1,4 @@
-name: Collect Coverages
+name: Collect Coverages coverage
 
 on:
   pull_request:
